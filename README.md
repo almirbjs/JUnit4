@@ -20,8 +20,8 @@ Conceitos de Junit4
 - Testar sempre.
 
 Asserts
--Afirmação
--Assertions para tipos primitivos, objetos e arrays;
+- Afirmação
+- Assertions para tipos primitivos, objetos e arrays;
 - Imports Static;
 - Ordem dos parâmentros.
 
