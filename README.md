@@ -19,6 +19,11 @@ Conceitos de Junit4
 - Organização do codigo;
 - Testar sempre.
 
+Asserts
+-Afirmação
+-Assertions para tipos primitivos, objetos e arrays;
+- Imports Static;
+- Ordem dos parâmentros.
 
 Referência
 
