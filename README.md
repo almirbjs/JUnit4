@@ -1,5 +1,4 @@
-
-Testes com Java- Testes Unitários com JUnit4
+# Testes com Java- Testes Unitários com JUnit4
 
 Objetivos da Aula
 1. Conceitos do JUnit4;
@@ -24,6 +23,38 @@ Asserts
 - Assertions para tipos primitivos, objetos e arrays;
 - Imports Static;
 - Ordem dos parâmentros.
+
+## Mocks
+
+Objetivo da Aula
+
+1. O que são Mocks
+
+   São objetos que simulam comportamentos de objetos reais de forma controlada;
+
+   
+
+2. Frameworks
+
+   - Mockito
+
+   - EasyMock
+
+   - PowerMockito 
+
+     
+
+3. Exemplos Mockito
+
+   
+
+4. Pré-Requisitos
+
+   - IDE;
+   - JDK;
+   - Maven;
+   - JUnit 4.12;
+   - Mockito 3
 
 Referência
 
